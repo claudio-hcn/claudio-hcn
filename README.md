@@ -1,6 +1,6 @@
 # 👋 Hola, soy Claudio Carrasco
 
-## 🔧 Ingeniero Industrial → 💻 Desarrollador en Formación
+## 🔧 Ingeniero en Instrumentación y Control Industrial → 💻 Desarrollador en Formación
 
 Después de **15+ años** en mantenimiento industrial (técnico → planificador → analista predictivo), estoy canalizando mi experiencia hacia el desarrollo de software que realmente impacte la industria.
 
@@ -8,7 +8,7 @@ Después de **15+ años** en mantenimiento industrial (técnico → planificador
 
 ## 🚀 Mi Transición
 
-- 🏭 **Experiencia Industrial:** Termografía, ultrasonido, análisis predictivo
+- 🏭 **Experiencia Industrial:** Termografía, ultrasonido, análisis predictivo, planificación, mantenimiento eléctrico
 - 💾 **Sistemas Implementados:** Fracttal CMMS, System1 Baker Hughes, DynaPredict IoT  
 - 📚 **Aprendiendo:** Java, JavaScript, Testing Automatizado
 - 🎯 **Objetivo:** Desarrollar software que resuelva problemas reales de la industria
@@ -39,27 +39,13 @@ Después de **15+ años** en mantenimiento industrial (técnico → planificador
 
 ---
 
-## 🎯 Proyectos Destacados
-
-### 🔧 Sistema de Mantenimiento Predictivo *(En desarrollo)*
-Aplicación web para automatizar informes de mantenimiento basada en mi experiencia en industria forestal.
-- **Stack:** Java, JavaScript, PostgreSQL
-- **Objetivo:** Resolver problemas reales que viví como usuario final
-
-*Próximamente en este repositorio...*
-
----
-
-## 📈 Mi Progreso de Aprendizaje
-
-### ✅ Completado:
+## ✅ Completado:
 - **Bootcamp FullStack JavaScript** - Talento Digital (2024)
 - **Programación Java** - SENCE
 - **Bases de Datos** - SENCE
 
 ### 🔄 Cursando:
-- **Bootcamp Testing QA** - Talento Digital (2024-2025)
-- **Selenium & JUnit** - Testing automatizado
+- **Bootcamp Testing QA** - Talento Digital (2025)
 
 ### 🎯 Próximos:
 - React.js para frontend
