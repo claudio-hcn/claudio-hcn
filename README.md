@@ -43,9 +43,10 @@ Después de **15+ años** en mantenimiento industrial (técnico → planificador
 - **Bootcamp FullStack JavaScript** - Talento Digital (2024)
 - **Programación Java** - SENCE
 - **Bases de Datos** - SENCE
+- **Bootcamp Testing QA** - Talento Digital (2025)
 
 ### 🔄 Cursando:
-- **Bootcamp Testing QA** - Talento Digital (2025)
+- **Bootcamp FullStack Java** - Talento Digital (2026)
 
 ### 🎯 Próximos:
 - React.js para frontend
